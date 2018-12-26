@@ -1,4 +1,4 @@
-RwComponentProjectSpecification{
+RwComponentSpecification{
 	#specName : 'RowanSample7',
 	#projectUrl : 'https://github.com/dalehenrich/RowanSample7',
 	#repoSpec : RwGitRepositorySpecification {
