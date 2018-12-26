@@ -1,0 +1,17 @@
+ComponentCompoundConfiguration {
+	#name : 'Test',
+  #conditionalPackages : {
+		[
+			'gemstone'
+		] : {
+			'core' : {
+				#packageNames : [
+					'RowanSample7Tests'
+				]
+			}
+		}
+	},
+	#configurationNames : [ 
+		'Common'
+	]
+}
