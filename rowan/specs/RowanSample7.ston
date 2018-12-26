@@ -1,12 +1,13 @@
- RwSimpleProjectSpecification{
+RwComponentProjectSpecification{
 	#specName : 'RowanSample7',
 	#projectUrl : 'https://github.com/dalehenrich/RowanSample7',
 	#repoSpec : RwGitRepositorySpecification {
-		#committish : 'sample',
+		#committish : 'master',
 		#committishType : 'branch'
 	},
 	#configsPath : 'rowan/configs',
 	#repoPath : 'rowan/src',
 	#specsPath : 'rowan/specs',
-	#comment : 'Sample project for Rowan v2.0.0'
+	#defaultGroupNames : [ 'core' ],
+	#comment : 'Sample project for Rowan v2.0.0.'
 }
