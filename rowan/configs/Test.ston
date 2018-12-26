@@ -6,7 +6,7 @@ RwComponentLoadConfiguration{
 		] : {
 			'core' : {
 				#packageNames : [
-					'RowanSample7Tests'
+					'RowanSample7-Tests'
 				]
 			}
 		}
