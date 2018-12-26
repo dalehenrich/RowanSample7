@@ -1,4 +1,4 @@
-ComponentCompoundConfiguration {
+RwComponentLoadConfiguration{
 	#name : 'Test',
   #conditionalPackages : {
 		[

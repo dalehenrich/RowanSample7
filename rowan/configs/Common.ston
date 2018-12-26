@@ -1,4 +1,4 @@
-RwComponentCompoundConfiguration {
+RwComponentLoadConfiguration{
 	#name : 'Common',
 	#version : '0.1.0',
   #conditionalPackages : {
