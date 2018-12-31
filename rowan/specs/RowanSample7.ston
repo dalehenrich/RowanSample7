@@ -2,8 +2,8 @@ RwComponentSpecification{
 	#specName : 'RowanSample7',
 	#projectUrl : 'https://github.com/dalehenrich/RowanSample7',
 	#repoSpec : RwGitRepositorySpecification {
-		#committish : 'master',
-		#committishType : 'branch'
+		#committish : 'v0.0.2',
+		#committishType : 'tag'
 	},
 	#configsPath : 'rowan/configs',
 	#repoPath : 'rowan/src',
