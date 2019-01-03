@@ -1,5 +1,5 @@
 Class {
 	#name : 'RwSample7Colored',
 	#superclass : 'Object',
-	#category : 'RowanSample7-Colors'
+	#category : 'RowanSample7_Colors-Core'
 }

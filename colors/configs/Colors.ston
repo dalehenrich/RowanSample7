@@ -1,0 +1,22 @@
+RwComponentLoadConfiguration{
+	#name : 'Colors',
+	#version : '0.1.0',
+  #conditionalPackages : {
+		[
+			'gemstone'
+		] : {
+			'core' : {
+				#packageNames : [
+					'RowanSample7_Colors-Core'
+				]
+			},
+			'tests' : {
+				#packageNames : [
+					'RowanSample7_Colors-Tests'
+				]
+			}
+		}
+	},
+	#configurationNames : [ ],
+	#projectNames : [ 'Colors' ]
+}

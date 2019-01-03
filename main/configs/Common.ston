@@ -7,7 +7,6 @@ RwComponentLoadConfiguration{
 		] : {
 			'core' : {
 				#packageNames : [
-					'RowanSample7-Colors',
 					'RowanSample7-Names',
 					'RowanSample7-Numbers',
 					'RowanSample7-Things',
@@ -17,5 +16,6 @@ RwComponentLoadConfiguration{
 			}
 		}
 	},
-	#configurationNames : [ ]
+	#configurationNames : [ ],
+	#projectNames : [ 'Colors' ]
 }
