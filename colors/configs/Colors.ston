@@ -18,5 +18,5 @@ RwComponentLoadConfiguration{
 		}
 	},
 	#configurationNames : [ ],
-	#projectNames : [ 'Colors' ]
+	#projectNames : [ ]
 }
