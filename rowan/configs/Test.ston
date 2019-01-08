@@ -1,0 +1,18 @@
+RwComponentLoadConfiguration{
+	#name : 'Test',
+  #conditionalPackages : {
+		[
+			'gemstone'
+		] : {
+			'core' : {
+				#packageNames : [
+					'RowanSample7-Tests',
+					'RowanSample7_Colors-Tests'
+				]
+			}
+		}
+	},
+	#configurationNames : [ 
+		'Common'
+	]
+}

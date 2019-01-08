@@ -1,0 +1,10 @@
+RwComponentLoadConfiguration{
+	#name : 'Main',
+	#version : '0.1.0',
+	#definedGroupNames : {
+		'core' : [ ]
+	},
+	#configurationNames : [
+		'Test'
+	]
+}
