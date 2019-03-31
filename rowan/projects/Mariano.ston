@@ -1,6 +1,6 @@
 {RwSimpleProjectSpecification
-	#specName : 'RowanSample7',
-	#projectUrl : 'https://github.com/dalehenrich/RowanSample7',
+	#specName : 'Mariano',
+	#projectUrl : 'https://github.com/dalehenrich/MarianoSample7',
 	#repoSpec : RwGitRepositorySpecification {
 		#committish : 'candidateV1.0',
 		#committishType : 'branch'
@@ -11,5 +11,5 @@
 	#projectsPath : 'rowan/projects,
 	#defaultConfigurationNames : [ 'Main' ],
 	#defaultGroupNames : [ 'core' ],
-	#comment : 'Sample project for Rowan v1.2.0 --- using non-component project API'
+	#comment : 'Sample project for Mariano v1.2.0 --- using non-component project API'
 }

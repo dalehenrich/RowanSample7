@@ -1,0 +1,12 @@
+RwComponentLoadConfiguration{
+	#name : 'Dev',
+	#version : '0.1.0',
+	#definedGroupNames : {
+		'core' : [ ]
+	},
+	#configurationNames : [
+		'Test',
+		'Common'
+	],
+	#comment : 'let us be explicit (mariano) ... configurations are equivalent to groups in Metacello'
+}

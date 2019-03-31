@@ -8,11 +8,15 @@ RwComponentLoadConfiguration{
 				#packageNames : [
 					'RowanSample7-Tests',
 					'RowanSample7_Colors-Tests'
+				],
+				#projectNames : [
+					'Mariano'
 				]
 			}
 		}
 	},
 	#configurationNames : [ 
 		'Common'
-	]
+	],
+	#comment : 'if groups are propagated, then the core packages of test _IS_ core'
 }
